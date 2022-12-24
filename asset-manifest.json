@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Garyouki.github.io/personal_profolio/static/css/main.ce69ecad.chunk.css",
+    "main.js": "/Garyouki.github.io/personal_profolio/static/js/main.a7968282.chunk.js",
+    "main.js.map": "/Garyouki.github.io/personal_profolio/static/js/main.a7968282.chunk.js.map",
+    "runtime-main.js": "/Garyouki.github.io/personal_profolio/static/js/runtime-main.01a30cfc.js",
+    "runtime-main.js.map": "/Garyouki.github.io/personal_profolio/static/js/runtime-main.01a30cfc.js.map",
+    "static/js/2.b9f1bd20.chunk.js": "/Garyouki.github.io/personal_profolio/static/js/2.b9f1bd20.chunk.js",
+    "static/js/2.b9f1bd20.chunk.js.map": "/Garyouki.github.io/personal_profolio/static/js/2.b9f1bd20.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/Garyouki.github.io/personal_profolio/static/css/3.df879eac.chunk.css",
+    "static/js/3.0a92999b.chunk.js": "/Garyouki.github.io/personal_profolio/static/js/3.0a92999b.chunk.js",
+    "static/js/3.0a92999b.chunk.js.map": "/Garyouki.github.io/personal_profolio/static/js/3.0a92999b.chunk.js.map",
+    "static/css/4.d7ceb645.chunk.css": "/Garyouki.github.io/personal_profolio/static/css/4.d7ceb645.chunk.css",
+    "static/js/4.1bda2403.chunk.js": "/Garyouki.github.io/personal_profolio/static/js/4.1bda2403.chunk.js",
+    "static/js/4.1bda2403.chunk.js.map": "/Garyouki.github.io/personal_profolio/static/js/4.1bda2403.chunk.js.map",
+    "index.html": "/Garyouki.github.io/personal_profolio/index.html",
+    "precache-manifest.761fd219cbf5de3526082e318d258d6a.js": "/Garyouki.github.io/personal_profolio/precache-manifest.761fd219cbf5de3526082e318d258d6a.js",
+    "service-worker.js": "/Garyouki.github.io/personal_profolio/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/Garyouki.github.io/personal_profolio/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.d7ceb645.chunk.css.map": "/Garyouki.github.io/personal_profolio/static/css/4.d7ceb645.chunk.css.map",
+    "static/css/main.ce69ecad.chunk.css.map": "/Garyouki.github.io/personal_profolio/static/css/main.ce69ecad.chunk.css.map",
+    "static/js/2.b9f1bd20.chunk.js.LICENSE.txt": "/Garyouki.github.io/personal_profolio/static/js/2.b9f1bd20.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Garyouki.github.io/personal_profolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Washington_University.png": "/Garyouki.github.io/personal_profolio/static/media/Washington_University.1973cb8f.png",
+    "static/media/contactMailDark.svg": "/Garyouki.github.io/personal_profolio/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/Garyouki.github.io/personal_profolio/static/media/developerActivity.59389695.svg",
+    "static/media/food.jpeg": "/Garyouki.github.io/personal_profolio/static/media/food.4759b5da.jpeg",
+    "static/media/g.png": "/Garyouki.github.io/personal_profolio/static/media/g.77086926.png",
+    "static/media/manOnTable.svg": "/Garyouki.github.io/personal_profolio/static/media/manOnTable.52be3144.svg",
+    "static/media/quoraLogo.png": "/Garyouki.github.io/personal_profolio/static/media/quoraLogo.4b2938b9.png",
+    "static/media/skill.svg": "/Garyouki.github.io/personal_profolio/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/Garyouki.github.io/personal_profolio/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01a30cfc.js",
+    "static/js/2.b9f1bd20.chunk.js",
+    "static/css/main.ce69ecad.chunk.css",
+    "static/js/main.a7968282.chunk.js"
+  ]
+}
